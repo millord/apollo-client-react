@@ -1,0 +1,111 @@
+{
+  "user": {
+    "id": "jBWMVGjm50l6LGwepDoty",
+    "username": "frontendmaster"
+  },
+  "pet": [
+    {
+      "id": "afdadfaqeww ",
+      "type": "DOG",
+      "name": "Bruce",
+      "createdAt": "345ad4q4q"
+    },
+    {
+      "id": "afdadfaadfa",
+      "type": "CAT",
+      "name": "Pauli",
+      "createdAt": "345ad4q4q"
+    },
+    {
+      "id": "OBzKwXyXio3VfgYOsAhHS",
+      "createdAt": 1622644339443,
+      "name": "batman",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "BrqrseONUMHO_q2v4OU-X",
+      "createdAt": 1622645119221,
+      "name": "rita",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "duCzdIxVNyEy8Iqe8IfKc",
+      "createdAt": 1622645190334,
+      "name": "Sultan",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "NFROKxLneJ-CRiV6EqQWm",
+      "createdAt": 1622646491519,
+      "name": "sultan",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "_hQ52eMxyF2WZOE-ZtvfS",
+      "createdAt": 1622646656437,
+      "name": "robert",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "rjs5XngeR-mxQ5T39F9Fr",
+      "createdAt": 1622677994114,
+      "name": "Willie",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "YYwwOmIAYsqPBrnA4AdIB",
+      "createdAt": 1622678018083,
+      "name": "Leroy",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "DM1cP7V4lLlREkW9H3CtY",
+      "createdAt": 1622678406256,
+      "name": "Cirilo",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "171UFtV4nGpfkYGPlBGgR",
+      "createdAt": 1622678493784,
+      "name": "Cirilo3",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "NtyeyHPWKExtOyV03p3bs",
+      "createdAt": 1622678645120,
+      "name": "Robert",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "-mdy-ILd0pTodZlmCgpQs",
+      "createdAt": 1622678660935,
+      "name": "Chocolate",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "kxmczvWkW0tuFS3S0crGv",
+      "createdAt": 1622716825790,
+      "name": "yella",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "7QYZhdkfjc8AJvqXHKDAl",
+      "createdAt": 1622716837029,
+      "name": "bruce",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    }
+  ]
+}
